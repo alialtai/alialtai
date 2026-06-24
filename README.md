@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ali-al-taae/">LinkedIn</a> •
   <a href="https://github.com/AliAlTai?tab=repositories">Projects Portfolio</a> •
-  <a href="mailto:your-email@example.com">Contact Me</a>
+  <a href="alialtai42@gmail.com">Contact Me</a>
 </p>
 
 ---
