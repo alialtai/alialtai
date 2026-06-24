@@ -64,5 +64,5 @@ I value collaboration and continuous learning. Feel free to explore my repositor
 ---
 
 ### 📫 Let's Connect!
-*   💼 **Business Inquiries:** your-email@example.com
+*   💼 **Business Inquiries:** alialtai42@gmail.com
 *   🔥 **Interests:** Self-development, Psychology (Human Nature & Deep Work), and Visual Storytelling.
